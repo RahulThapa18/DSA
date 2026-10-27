@@ -1,2 +1,2 @@
 # DSA
-Dsa_python
+DSA_Python
